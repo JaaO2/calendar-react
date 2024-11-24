@@ -1,0 +1,3 @@
+interface AddEventResponse {
+    status: boolean;
+}

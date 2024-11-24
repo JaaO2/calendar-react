@@ -1,0 +1,3 @@
+interface LoginResult {
+    result: boolean;
+}
